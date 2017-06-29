@@ -63,7 +63,7 @@ project_folder/
 
 ## runserver
 
-```python
+```
 # local developement
 python3 manage.py runserver --settings=config.settings.debug
 ```
